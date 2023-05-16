@@ -1,0 +1,31 @@
+[
+    {
+        "title": "resources",
+        "options": [
+            {
+                "name": "Opção 1",
+                "link": " "
+            },
+            {
+                "name": "Opção 1",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "title": "privacy_policy",
+        "link": ""
+    },
+    {
+        "title": "help_center",
+        "link": ""
+    },
+    {
+        "title": "blog",
+        "link": ""
+    },
+    {
+        "title": "whatsapp_web",
+        "link": ""
+    }
+]
